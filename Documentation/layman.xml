@@ -2,7 +2,7 @@
 <repositories version="1.0">
   <repo priority="50" quality="experimental" status="unofficial">
     <name>gentoo-fix</name>
-    <description>gentoo main tree with fixes for bgo</description>
+    <description>gentoo main tree with fixes from bgo</description>
     <homepage>https://github.com/gentoo-fix/gentoo-fix</homepage>
     <owner>
       <email>megagreener@gmail.com</email>
