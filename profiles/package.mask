@@ -12,3 +12,8 @@
 ## =media-video/mplayer-0.90_pre5-r1
 
 #--- END OF EXAMPLES ---
+
+# Sergey Popov <pinkbyte@gentoo.org> (24 Oct 2012)
+# Mask 0.9 branch of compiz, cause it is highly experimental
+# and not ready for daily usage
+x11-wm/compiz:0.9
